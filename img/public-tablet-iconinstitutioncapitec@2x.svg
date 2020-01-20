@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="108.926829px" height="109.672474px" viewBox="0 0 108.926829 109.672474" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-92.9%" y="-92.9%" width="287.4%" height="287.4%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="7" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="9" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.162760417 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <circle id="path-2" cx="26.1" cy="26.1" r="26.1"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/institution/capitec">
+            <g id="icon---capitec" filter="url(#filter-1)" transform="translate(27.900000, 28.800000)">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <use id="Oval" fill="#FFFFFF" xlink:href="#path-2"></use>
+                <path d="M20.7,15.3 L20.7,21.3833568 C20.7,23.5538495 22.4399529,25.3171413 24.5646889,25.3171413 L31.9833086,25.3171413 C34.6394119,25.3171413 36.8132536,27.5384407 36.8132536,30.2528641 L36.8132536,36 C41.9598203,35.1310558 45.9,30.8476015 45.9,25.7318138 C45.9,19.9943909 40.9447256,15.3 34.8886048,15.3 L20.7,15.3 Z" id="Fill-3" fill="#EB382C" mask="url(#mask-3)"></path>
+                <path d="M6.3,25.6388694 C6.3,31.3370089 11.3625468,36 17.5506865,36 L33.3,36 L33.3,29.9152567 C33.3,27.758141 31.5228663,25.9935654 29.3510637,25.9935654 L21.7946884,25.9935654 C19.0799351,25.9935654 16.8594541,23.8223509 16.8594541,21.1272548 L16.8594541,15.3 C10.9903448,15.6316927 6.3,20.1544379 6.3,25.6388694" id="Fill-4" fill="#004670" mask="url(#mask-3)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

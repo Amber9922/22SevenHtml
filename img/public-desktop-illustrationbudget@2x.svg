@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="335px" height="160px" viewBox="0 0 335 160" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0.573692641" y="0.542816632" width="245.397793" height="91.7881058" rx="3.49934767"></rect>
+        <filter x="-15.5%" y="-27.2%" width="131.0%" height="182.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="13" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.10377038 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="illustration/budget">
+            <g transform="translate(44.000000, 14.000000)">
+                <g id="Rectangle-Copy-17" fill-rule="nonzero">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" xlink:href="#path-1"></use>
+                </g>
+                <rect id="Rectangle-Copy-18" fill="#4A4A4A" fill-rule="nonzero" x="33.4286037" y="32.082342" width="185.772213" height="12.9392925" rx="6.46964623"></rect>
+                <rect id="Rectangle-Copy-21" fill="#BD4D9C" fill-rule="nonzero" x="33.4286037" y="49.4695162" width="122.496088" height="12.9392925" rx="6.46964623"></rect>
+                <rect id="Rectangle-Copy-22" fill="#26B1C9" fill-rule="nonzero" x="33.4286037" y="49.4695162" width="71.3884488" height="12.9392925" rx="6.46964623"></rect>
+                <rect id="Rectangle-Copy-28" fill="#F2692E" fill-rule="nonzero" x="117.796771" y="49.4695162" width="5.67862661" height="12.9392925"></rect>
+                <rect id="Rectangle-Copy-29" fill="#FEC548" fill-rule="nonzero" x="73.17899" y="49.4695162" width="44.6177805" height="12.9392925"></rect>
+                <path d="M156.330308,56.1413389 L219.200817,56.1413389" id="Line-3" stroke="#979797" stroke-width="0.583224611" stroke-linecap="square" fill-rule="nonzero"></path>
+                <path d="M219.200817,49.4695162 L219.200817,62.4088087" id="Line-4" stroke="#979797" stroke-width="0.583224611" stroke-linecap="square" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

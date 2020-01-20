@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="98px" height="98px" viewBox="0 0 98 98" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="17.4728861" cy="17.5792564" r="17.156974"></circle>
+        <filter x="-94.7%" y="-62.7%" width="289.4%" height="289.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="11" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="9" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.10377038 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/budget/banking-fees">
+            <g transform="translate(26.100000, 27.000000)">
+                <g id="Oval-Copy-13" fill-rule="nonzero">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" xlink:href="#path-1"></use>
+                </g>
+                <text id="🏦" font-family="AppleColorEmoji, Apple Color Emoji" font-size="13.5" font-weight="normal" fill="#6A668F">
+                    <tspan x="8.75414801" y="22.5976147">🏦</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

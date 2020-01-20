@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="131px" height="129px" viewBox="0 0 131 129" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-137.0%" y="-137.5%" width="375.2%" height="375.2%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="11" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="17" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.115404212 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/goals/home">
+            <g filter="url(#filter-1)" transform="translate(34.350564, 33.108365)">
+                <path d="M31.5803571,62.9058935 C14.1393617,62.9058935 0,48.8239368 0,31.4529467 C0,14.0819568 14.1393617,0 31.5803571,0 C49.0217139,0 63.1607143,14.0819568 63.1607143,31.4529467 C63.1607143,48.8239368 49.0217139,62.9058935 31.5803571,62.9058935 Z" id="Fill-1" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <g id="001-house" transform="translate(15.455995, 13.063790)" fill-rule="nonzero">
+                    <polygon id="Rectangle-path" fill="#F05540" points="24.1193375 4.61705128 27.8145249 4.61705128 27.8145249 11.0407748 24.1193375 11.0407748"></polygon>
+                    <polygon id="Rectangle-path" fill="#F3705A" points="22.7084558 1.33825482 29.2254066 1.33825482 29.2254066 4.81779264 22.7084558 4.81779264"></polygon>
+                    <path d="M2.82176339,17.3306917 L2.82176339,32.1186176 L29.1582007,32.1186176 L29.1582007,17.3306917 C23.9849888,12.178351 21.0960196,9.30103726 15.9899506,4.21556856 C10.8839445,9.36790922 7.99497528,12.245223 2.82176339,17.3306917 Z" id="Shape" fill="#FFD15C"></path>
+                    <path d="M29.2254066,17.3306917 C24.0521947,12.178351 21.1632254,9.30103726 16.0571564,4.21556856 C13.4369475,6.75827154 11.4214023,8.76568514 9.40585698,10.7730987 C7.3903117,12.7805123 5.37476642,14.7879259 2.82176339,17.3306289 L2.82176339,20.3417493 C7.99497528,15.1894087 10.8839445,12.3120949 15.9900136,7.22662623 C21.1632254,12.3789669 24.0521947,15.2562806 29.1582637,20.3417493 L29.1582637,20.743232 L29.1582637,17.3306289 L29.2254066,17.3306289 L29.2254066,17.3306917 Z" id="Shape" fill="#F7B64C"></path>
+                    <path d="M13.6385021,32.1186176 L5.71073262,32.1186176 L5.71073262,24.3566393 C5.71073262,22.1484843 7.52472338,20.4087468 9.67461735,20.4087468 C11.8917172,20.4087468 13.6385021,22.215419 13.6385021,24.3566393 L13.6385021,32.1186176 Z" id="Shape" fill="#415A6B"></path>
+                    <rect id="Rectangle-path" fill="#344A5E" x="15.9900136" y="20.408684" width="10.3464868" height="9.0333612"></rect>
+                    <g id="Group" transform="translate(17.006163, 21.454233)" fill="#8AD7F8">
+                        <polygon id="Rectangle-path" points="0.0587657421 0.02509267 3.61954141 0.02509267 3.61954141 6.91723361 0.0587657421 6.91723361"></polygon>
+                        <polygon id="Rectangle-path" points="4.69451989 0.02509267 8.25529555 0.02509267 8.25529555 6.91723361 4.69451989 6.91723361"></polygon>
+                    </g>
+                    <path d="M31.6440609,14.5871846 L17.6024498,0.60222408 C16.7962317,-0.20074136 15.38535,-0.20074136 14.5791319,0.60222408 L0.604663584,14.5871846 C-0.201554528,15.39015 -0.201554528,16.7953395 0.604663584,17.598305 C1.4108817,18.4012704 2.82176339,18.4012704 3.62798151,17.598305 L16.1243622,5.15234066 L28.620743,17.598305 C29.4269611,18.4012704 30.8378428,18.4012704 31.6440609,17.598305 C32.450279,16.7284676 32.450279,15.39015 31.6440609,14.5871846 Z" id="Shape" fill="#F3705A"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

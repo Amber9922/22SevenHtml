@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="91.0603175px" height="90.712963px" viewBox="0 0 91.0603175 90.712963" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-62.4%" y="-62.4%" width="225.2%" height="225.2%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.115404212 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/goals/diamond">
+            <g filter="url(#filter-1)" transform="translate(26.968895, 26.968895)">
+                <path d="M18.4287451,36.8574902 C8.25103694,36.8574902 0,28.6066642 0,18.4287451 C0,8.25082604 8.25103694,0 18.4287451,0 C28.6066641,0 36.8574902,8.25082604 36.8574902,18.4287451 C36.8574902,28.6066642 28.6066641,36.8574902 18.4287451,36.8574902 Z" id="Fill-1" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <g id="diamond" transform="translate(5.782489, 11.753026)" fill-rule="nonzero">
+                    <polygon id="Shape" fill="#39C4AD" points="16.0468768 5.04557415 12.0341586 17.0809081 8.02261569 5.04557415"></polygon>
+                    <g id="Group" transform="translate(0.000000, 5.030295)" fill="#4BD6C0">
+                        <polygon id="Shape" points="8.02261569 0.0152789341 12.0341586 12.0506128 0 0.0152789341"></polygon>
+                        <polygon id="Shape" points="16.0468768 0.0152789341 12.0341586 12.0506128 24.0701977 0.0152789341"></polygon>
+                    </g>
+                    <polygon id="Shape" fill="#39C4AD" points="0 5.04557415 5.01393501 0.0314981102 8.02261569 5.04557415"></polygon>
+                    <polygon id="Shape" fill="#4BD6C0" points="8.02261569 5.04557415 12.0341586 0.0314981102 16.0468768 5.04557415"></polygon>
+                    <g id="Group" transform="translate(4.983283, 0.000000)" fill="#2FB49E">
+                        <polygon id="Shape" points="0.0306518924 0.0314981102 3.03933258 5.04557415 7.05087549 0.0314981102"></polygon>
+                        <polygon id="Shape" points="14.0727445 0.0314981102 11.0635937 5.04557415 7.05087549 0.0314981102"></polygon>
+                    </g>
+                    <polygon id="Shape" fill="#39C4AD" points="24.0701977 5.04557415 19.0560276 0.0314981102 16.0468768 5.04557415"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

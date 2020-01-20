@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96.4698413px" height="96.1018519px" viewBox="0 0 96.4698413 96.1018519" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-166.1%" y="-164.7%" width="433.5%" height="429.9%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="15" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.115404212 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/goals/home">
+            <g filter="url(#filter-1)" transform="translate(25.215063, 24.607595)">
+                <path d="M23.18159,46.7544304 C10.3790114,46.7544304 0,36.2881 0,23.3772152 C0,10.4663304 10.3790114,0 23.18159,0 C35.9844338,0 46.3631799,10.4663304 46.3631799,23.3772152 C46.3631799,36.2881 35.9844338,46.7544304 23.18159,46.7544304 Z" id="Fill-1" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <g id="001-house" transform="translate(11.345487, 9.709584)" fill-rule="nonzero">
+                    <polygon id="Rectangle-path" fill="#F05540" points="17.7048217 3.43159584 20.4172773 3.43159584 20.4172773 8.20599005 17.7048217 8.20599005"></polygon>
+                    <polygon id="Rectangle-path" fill="#F3705A" points="16.6691627 0.994649919 21.4529363 0.994649919 21.4529363 3.58079566 16.6691627 3.58079566"></polygon>
+                    <path d="M2.07131799,12.8809333 L2.07131799,23.8719711 L21.4036038,23.8719711 L21.4036038,12.8809333 C17.6062029,9.05148678 15.4855524,6.9129405 11.7374378,3.1331962 C7.9893694,6.96264269 5.8687189,9.10118897 2.07131799,12.8809333 Z" id="Shape" fill="#FFD15C"></path>
+                    <path d="M21.4529363,12.8809333 C17.6555354,9.05148678 15.5348849,6.9129405 11.7867703,3.1331962 C9.8634036,5.02304504 8.38389075,6.51504323 6.90437789,8.00704142 C5.42486504,9.49903961 3.94535219,10.9910378 2.07131799,12.8808866 L2.07131799,15.1188839 C5.8687189,11.2894374 7.9893694,9.15089116 11.737484,5.37114687 C15.5348849,9.20059335 17.6555354,11.3391396 21.4036501,15.1188839 L21.4036501,15.4172836 L21.4036501,12.8808866 L21.4529363,12.8808866 L21.4529363,12.8809333 Z" id="Shape" fill="#F7B64C"></path>
+                    <path d="M10.0113549,23.8719711 L4.19196849,23.8719711 L4.19196849,18.1029269 C4.19196849,16.4617289 5.52353006,15.1686794 7.10166169,15.1686794 C8.72912582,15.1686794 10.0113549,16.5114777 10.0113549,18.1029269 L10.0113549,23.8719711 Z" id="Shape" fill="#415A6B"></path>
+                    <rect id="Rectangle-path" fill="#344A5E" x="11.737484" y="15.1686327" width="7.59484805" height="6.71399186"></rect>
+                    <g id="Group" transform="translate(12.483390, 15.945731)" fill="#8AD7F8">
+                        <polygon id="Rectangle-path" points="0.0431370466 0.0186499774 2.65692767 0.0186499774 2.65692767 5.14119264 0.0431370466 5.14119264"></polygon>
+                        <polygon id="Rectangle-path" points="3.4460166 0.0186499774 6.05980723 0.0186499774 6.05980723 5.14119264 3.4460166 5.14119264"></polygon>
+                    </g>
+                    <path d="M23.2283518,10.841838 L12.9210943,0.447599458 C12.3292892,-0.149199819 11.2936302,-0.149199819 10.701825,0.447599458 L0.443853855,10.841838 C-0.147951285,11.4386373 -0.147951285,12.483036 0.443853855,13.0798353 C1.035659,13.6766345 2.07131799,13.6766345 2.66312313,13.0798353 L11.8361028,3.82944648 L21.0090825,13.0798353 C21.6008876,13.6766345 22.6365466,13.6766345 23.2283518,13.0798353 C23.8201569,12.4333338 23.8201569,11.4386373 23.2283518,10.841838 Z" id="Shape" fill="#F3705A"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="106px" height="103px" viewBox="0 0 106 103" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="21.6502978" cy="21.0968903" rx="21.0640047" ry="21.0968903"></ellipse>
+        <filter x="-90.2%" y="-59.3%" width="280.4%" height="280.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="13" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.10377038 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/budget/fuel">
+            <g transform="translate(32.000000, 30.000000)">
+                <g id="Oval-Copy-12" fill-rule="nonzero">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" xlink:href="#path-1"></use>
+                </g>
+                <text id="⛽" font-family="AppleColorEmoji, Apple Color Emoji" font-size="19.076305" font-weight="normal" fill="#6A668F">
+                    <tspan x="10.0246766" y="29.000422">⛽</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
