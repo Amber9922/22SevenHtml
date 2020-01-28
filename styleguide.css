@@ -1,12 +1,25 @@
+/* Fonts */
 
-Header { 
-   background-color: #000;
-}
-
-.heading {
-  font-size: 40px; 
-  color: #fff;  
-}
+@font-face {
+   font-family: "CircularStd-Book";
+   src: url('../fonts/CircularStd-Book.otf') format("opentype");
+ }
+ @font-face {
+   font-family: "CircularStd-Bold";
+   src: url('../fonts/CircularStd-Bold.otf') format("opentype");
+ }
+ @font-face {
+   font-family: "CircularStd-Medium";
+   src: url('../fonts/CircularStd-Medium.otf') format("opentype");
+ }
+ @font-face {
+   font-family: "CircularStd-Black";
+   src: url('../fonts/CircularStd-Black.otf') format("opentype");
+ }
+ @font-face {
+   font-family: "ProximaNova-Semibold";
+   src: url('../fonts/Mark Simonson - Proxima Nova Semibold-webfont.ttf') format("truetype");
+ }
 
 /* --- Colors --- */
 /* Primary Colours  */
@@ -36,3 +49,15 @@ Header {
 .alohomora { color: #FFF2F2; }
 .expelliarmus { color: #E9F9F8; }
 .lumos { color: #FFF9EE; }
+
+/*  Globals  */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+   font-family: "CircularStd-Bold", Helvetica, Arial, serif;
+}
+
