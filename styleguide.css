@@ -1,5 +1,38 @@
 
+Header { 
+   background-color: #000;
+}
+
 .heading {
   font-size: 40px; 
-  color: red;  
+  color: #fff;  
 }
+
+/* --- Colors --- */
+/* Primary Colours  */
+
+.thanos { color: #434b6b; };
+.cheshire { color: #6a678D; }
+.bulbasaur { color: #27C5B8; }
+.gandalf { color: #A7B2BC; }
+.stormTrooper { color: #F1F2F3; }
+
+/* Sedconday Colors */
+
+.black { color: #000 }
+.white { color: #fff }
+.darthVader { color: #606060; }
+
+.megaman { color: #24B4C7; }
+.pikachu { color: #FFD74E; }
+.dumbledore { color: #7A71EF; }
+.kermit { color: #893E53; }
+.garfield { color: #FD924B; }
+.princessPeach { color: #FD7A7C }
+
+/* Util colors  */
+
+.wingardiumLeviosa { color: #F1F5FB; }
+.alohomora { color: #FFF2F2; }
+.expelliarmus { color: #E9F9F8; }
+.lumos { color: #FFF9EE; }
