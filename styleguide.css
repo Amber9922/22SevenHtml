@@ -52,12 +52,56 @@
 
 /*  Globals  */
 
+body {
+   margin: 0px;
+}
+
 h1,
 h2,
 h3,
 h4,
 h5,
-h6 {
+h6,
+span {
    font-family: "CircularStd-Bold", Helvetica, Arial, serif;
 }
 
+/* Layout */
+
+.container {
+   margin: 40px 50px 0 50px;
+}
+header { 
+   height: 50px;
+   padding: 10px 0 0 40px;
+   background-color: #000;
+}
+
+.siteTitle {
+
+   color: #ffffff;
+   font-size: 30px;
+   letter-spacing: 0.8px;
+}
+
+.boxModel {
+   width: 100px;
+   height: 100px;
+   outline: 2px solid black;
+
+   text-align: center;
+   
+   /* padding inside the box */
+   /* top, right, bottom, left */
+   padding: 20px 20px 20px 20px;
+   /* margin outside the box */
+   /* top, right, bottom, left */
+   margin: 50px 50px 50px 0px;
+}
+
+/* 
+
+- Learn the box model 
+- Basic Layouts with flexbox
+
+*/
